@@ -1,0 +1,6 @@
+weight 90 
+height 5.67
+age 29
+car 90
+win height 
+loss weight 
